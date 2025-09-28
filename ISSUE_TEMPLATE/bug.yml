@@ -1,0 +1,9 @@
+name: Bug report
+description: Report a bug
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug.
